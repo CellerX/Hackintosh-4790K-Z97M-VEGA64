@@ -1,5 +1,11 @@
 # Hackintosh-4790K-Z97M-VEGA64
 ## EFI 
+内置高仿白苹果主题和精简开机音效。
+
+配置里没有设置开机音效需要请参考
+
+[Opencore设置开机主题和开机音效](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html)
+
 macOS version: 10.15.7 or 11.0.1 beta2
 
 ##  更新情况
