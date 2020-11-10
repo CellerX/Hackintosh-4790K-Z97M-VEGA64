@@ -2,11 +2,9 @@
 ## EFI 
 内置高仿白苹果主题和精简开机音效。
 
-配置里没有设置开机音效需要请参考
+请对应自己的配置调整开机音效，参考：[Opencore设置开机主题和开机音效](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html)
 
-[Opencore设置开机主题和开机音效](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html)
-
-macOS version: 10.15.7 or 11.0.1 beta2
+测试版本：macOS version: 10.15.7 & 11.0.1 beta2
 
 ##  更新情况
 
@@ -23,8 +21,8 @@ macOS version: 10.15.7 or 11.0.1 beta2
 |显卡|AMD VEGA64 |
 |SSD|东芝 TR200 512GB|
 |电源|EVGA G2 650W|
-|声卡|板载Realtek|
-|网卡|无线:BCM94360CS2 有线:Intel千兆网卡|
+|声卡|板载Realtek ALC892|
+|网卡|无线：BCM94360CS2 有线：Intel千兆网卡|
 
 ## 功能测试
 
